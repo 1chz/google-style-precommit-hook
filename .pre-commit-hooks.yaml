@@ -1,0 +1,6 @@
+-   id: google-style-java
+    name: Google Java Style Guide
+    description: https://github.com/google/google-java-format
+    entry: ./google-style-format.sh
+    language: script
+    files: **/*.java$ 
