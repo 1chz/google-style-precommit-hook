@@ -1,6 +1,6 @@
 A simple [pre-commit](http://pre-commit.com/) hook which will run [Google's java style guide](https://github.com/google/google-java-format) formatter for your java code!
 
-*Note*: I've confirmed that this file is supported up to JDK 17
+*Note*: I've confirmed that this file is supported up to JDK 17 and apply AOSP(4 indent)
 
 Usage:
 
