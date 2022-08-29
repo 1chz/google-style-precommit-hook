@@ -3,4 +3,4 @@
     description: https://github.com/google/google-java-format
     entry: ./google-style-format.sh
     language: script
-    files: **/*.java$ 
+    files:\.java$ 
